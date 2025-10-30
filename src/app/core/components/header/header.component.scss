@@ -1,8 +1,9 @@
+@use 'mixins' as *;
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: var(--color-surface);
+  @include light-radial-bg;
   color: var(--color-text);
   padding: 1rem 2rem;
   box-shadow: 0 2px 10px var(--color-shadow);

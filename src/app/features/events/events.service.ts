@@ -11,24 +11,27 @@ export class EventsService {
 
   constructor(private http: HttpClient) {}
 
-  /** 🔹 Todos los partidos (con paginación local simulada) */
-  getEvents(page = 1, limit = 10): Observable<EventResponse> {
-    return this.http.get<SportsEvent[]>(this.baseUrl).pipe(
-      map((events) => {
-        const total = events.length;
-        const totalPages = Math.ceil(total / limit);
-        const start = (page - 1) * limit;
-        const paginated = events.slice(start, start + limit);
+getEvents(page = 1, limit = 10): Observable<EventResponse> {
+  return this.http.get<SportsEvent[]>(this.baseUrl).pipe(
+    map((events: SportsEvent[]) => {
+      const total = events.length;
+      const totalPages = Math.ceil(total / limit);
+      const start = (page - 1) * limit;
+      const paginated = events.slice(start, start + limit);
 
-        return {
-          laliga: paginated,
-          total,
-          current_page: page,
-          total_pages: totalPages
-        };
-      })
-    );
-  }
+      // devolvemos las propiedades que existen en EventResponse
+      const response: EventResponse = {
+        laliga: paginated,
+        total,
+        current_page: page,
+        total_pages: totalPages
+      };
+
+      return response;
+    })
+  );
+}
+
 
   /** 🔹 Obtener partido por ID */
   getEventById(id: number): Observable<SportsEvent> {
@@ -39,4 +42,13 @@ export class EventsService {
   getByMatchday(matchday: number): Observable<SportsEvent[]> {
     return this.http.get<SportsEvent[]>(`${this.baseUrl}?matchday=${matchday}`);
   }
+
+
+   getByDay(date: string): Observable<SportsEvent[]> {
+    return this.http.get<SportsEvent[]>(this.baseUrl).pipe(
+      map(events => events.filter(e => e.date === date))
+    );
+  }
+
+  
 }

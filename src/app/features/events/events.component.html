@@ -1,6 +1,22 @@
 <section class="events" aria-labelledby="eventsTitle">
   <h2 id="eventsTitle">⚽ Jornada {{ currentPage() }}</h2>
 
+  <!-- 🔽 Selector de jornada -->
+  <div class="jornada-selector">
+    <label for="jornadaSelect">Ir a jornada:</label>
+    <select
+      id="jornadaSelect"
+      [value]="currentPage()"
+      (change)="onSelectJornada($event)"
+      aria-label="Seleccionar jornada"
+    >
+      @for (jornada of jornadas(); track jornada) {
+        <option [value]="jornada">Jornada {{ jornada }}</option>
+      }
+    </select>
+  </div>
+
+  <!-- 🔽 Listado de eventos -->
   <div class="cards" role="list">
     @for (event of events(); track event.id) {
       <article
@@ -35,14 +51,11 @@
             height="64"
             loading="lazy"
             decoding="async"
-            
           />
-
           <span class="score" aria-live="polite" aria-atomic="true">
             <span class="sr-only">Marcador:</span>
             {{ event.score.home }} <span aria-hidden="true">-</span> {{ event.score.away }}
           </span>
-
           <img
             class="logo"
             [src]="event.awayTeam.logo"
@@ -51,7 +64,6 @@
             height="64"
             loading="lazy"
             decoding="async"
-           
           />
         </div>
 
@@ -66,6 +78,7 @@
     }
   </div>
 
+  <!-- 🔽 Paginación -->
   <nav class="pagination" role="navigation" aria-label="Paginación de jornadas">
     <button
       type="button"
@@ -92,6 +105,7 @@
     </button>
   </nav>
 </section>
+
 
 <!-- Texto solo para lectores de pantalla -->
 <span class="sr-only" aria-hidden="false"></span>

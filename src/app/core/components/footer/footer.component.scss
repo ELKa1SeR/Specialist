@@ -1,5 +1,6 @@
+@use 'mixins' as *;
 .footer {
-  background-color: var(--color-surface);
+  @include light-radial-bg;
   color: var(--color-text);
   padding: 1.25rem 2rem;
   text-align: center;

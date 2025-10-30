@@ -18,6 +18,17 @@
   }
 }
 
+@mixin light-radial-bg {
+  background:
+    radial-gradient(circle at 60% 30%, rgba(138, 43, 226, 0.25), transparent 60%),
+    radial-gradient(circle at 30% 70%, rgba(155, 48, 255, 0.2), transparent 70%),
+    var(--color-bg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 // 🎞️ Animación keyframes
 @mixin fade-in($duration: 0.8s) {
   animation: fadeIn $duration ease-in-out both;

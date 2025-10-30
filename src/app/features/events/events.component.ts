@@ -13,20 +13,39 @@ import { SportsEvent } from './event.model';
 export class EventsComponent implements OnInit {
   events = signal<SportsEvent[]>([]);
   currentPage = signal(1);
-  totalPages = signal(1);
+  totalPages = signal(38);
+  jornadas = signal<number[]>(Array.from({ length: 38 }, (_, i) => i + 1));
 
   constructor(private eventsService: EventsService) {}
 
   ngOnInit(): void {
-    this.loadEvents();
+    const jornadaActual = this.calcularJornadaActual();
+    this.currentPage.set(jornadaActual);
+    this.loadEvents(jornadaActual);
   }
 
   loadEvents(page: number = 1): void {
-    this.eventsService.getEvents(page).subscribe((res) => {
-      this.events.set(res.laliga);
-      this.totalPages.set(res.total_pages ?? 1);
-      this.currentPage.set(res.current_page ?? 1);
+    this.eventsService.getEvents(page).subscribe({
+      next: (res) => {
+        this.events.set(res.laliga);
+
+        this.currentPage.set(page);
+      },
+      error: (err) => console.error('Error cargando jornada:', err)
     });
+  }
+
+  private calcularJornadaActual(): number {
+    const fechaInicio = new Date('2025-08-15');
+    const hoy = new Date();
+    const diffDias = (hoy.getTime() - fechaInicio.getTime()) / (1000 * 60 * 60 * 24);
+    const jornada = Math.ceil(diffDias / 7);
+    return Math.min(Math.max(jornada, 1), 38);
+  }
+
+  onSelectJornada(event: Event): void {
+    const jornada = Number((event.target as HTMLSelectElement).value);
+    this.loadEvents(jornada);
   }
 
   nextPage(): void {
@@ -41,13 +60,9 @@ export class EventsComponent implements OnInit {
     }
   }
 
-
-onImgError(ev: Event) {
-  const img = ev.target as HTMLImageElement;
-  if (!img || img.src.endsWith('/assets/fallback.png')) return; // evita bucle infinito
-  img.src = 'assets/fallback.png';
-}
-
-
-
+  onImgError(ev: Event): void {
+    const img = ev.target as HTMLImageElement;
+    if (!img || img.src.includes('fallback.png')) return;
+    img.src = 'assets/fallback.png';
+  }
 }

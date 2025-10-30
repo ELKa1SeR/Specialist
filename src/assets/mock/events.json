@@ -12,7 +12,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 1,
@@ -28,11 +28,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 2,
@@ -52,7 +52,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -72,7 +72,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 1,
@@ -88,11 +88,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -112,7 +112,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -128,11 +128,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 1,
@@ -148,11 +148,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -172,7 +172,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -188,7 +188,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -208,11 +208,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 2,
@@ -232,7 +232,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -252,7 +252,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 1,
@@ -268,11 +268,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -292,7 +292,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -308,11 +308,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 1,
@@ -328,11 +328,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -352,7 +352,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -368,7 +368,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -388,7 +388,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -412,7 +412,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -432,7 +432,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 1,
@@ -448,11 +448,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -472,7 +472,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -488,11 +488,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 1,
@@ -508,11 +508,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -532,7 +532,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -548,7 +548,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -568,7 +568,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -588,11 +588,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -612,7 +612,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 1,
@@ -628,11 +628,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -652,7 +652,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -668,11 +668,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 1,
@@ -688,11 +688,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -712,7 +712,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -728,7 +728,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -748,7 +748,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -768,11 +768,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -788,7 +788,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -808,11 +808,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -832,7 +832,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -848,11 +848,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 1,
@@ -868,11 +868,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -892,7 +892,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -908,7 +908,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -928,7 +928,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -948,11 +948,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -968,7 +968,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -988,7 +988,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -1012,7 +1012,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -1028,11 +1028,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 1,
@@ -1048,11 +1048,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -1072,7 +1072,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -1088,7 +1088,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -1108,7 +1108,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -1128,11 +1128,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -1148,7 +1148,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -1168,7 +1168,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -1188,11 +1188,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -1208,11 +1208,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 1,
@@ -1228,11 +1228,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -1252,7 +1252,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -1268,7 +1268,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -1288,7 +1288,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -1308,11 +1308,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -1328,7 +1328,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -1348,7 +1348,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -1368,11 +1368,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -1388,7 +1388,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -1408,11 +1408,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -1432,7 +1432,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -1448,7 +1448,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -1468,7 +1468,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -1488,11 +1488,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -1508,7 +1508,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -1528,7 +1528,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -1548,11 +1548,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -1568,7 +1568,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -1588,11 +1588,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 2,
@@ -1612,7 +1612,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -1628,7 +1628,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -1648,7 +1648,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -1668,11 +1668,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -1688,7 +1688,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -1708,7 +1708,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -1728,11 +1728,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -1748,7 +1748,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -1768,11 +1768,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 2,
@@ -1788,11 +1788,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -1808,7 +1808,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -1828,7 +1828,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -1848,11 +1848,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -1868,7 +1868,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -1888,7 +1888,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -1908,11 +1908,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -1928,7 +1928,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -1948,11 +1948,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 2,
@@ -1968,11 +1968,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -1988,7 +1988,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -2008,7 +2008,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -2028,11 +2028,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -2048,7 +2048,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -2068,7 +2068,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -2088,11 +2088,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -2108,7 +2108,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -2128,11 +2128,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 2,
@@ -2148,11 +2148,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -2168,7 +2168,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -2192,7 +2192,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 2,
@@ -2208,11 +2208,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -2228,7 +2228,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -2248,7 +2248,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -2268,11 +2268,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -2288,7 +2288,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -2308,11 +2308,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -2328,11 +2328,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -2348,7 +2348,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -2372,7 +2372,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -2392,7 +2392,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -2408,7 +2408,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -2428,7 +2428,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -2448,11 +2448,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -2468,7 +2468,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -2488,11 +2488,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -2508,11 +2508,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -2528,7 +2528,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -2552,7 +2552,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -2572,7 +2572,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -2588,11 +2588,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -2608,7 +2608,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -2628,11 +2628,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -2648,7 +2648,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -2668,11 +2668,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -2688,11 +2688,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -2708,7 +2708,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -2732,7 +2732,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -2752,7 +2752,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -2768,11 +2768,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -2792,7 +2792,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -2808,11 +2808,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -2828,7 +2828,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -2848,11 +2848,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -2868,11 +2868,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -2888,7 +2888,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -2912,7 +2912,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -2932,7 +2932,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -2948,11 +2948,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -2972,7 +2972,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -2992,7 +2992,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3008,7 +3008,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -3028,11 +3028,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -3048,11 +3048,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -3068,7 +3068,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -3092,7 +3092,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3112,7 +3112,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -3128,11 +3128,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -3152,7 +3152,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3172,7 +3172,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3188,11 +3188,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3208,11 +3208,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -3228,11 +3228,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -3248,7 +3248,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -3272,7 +3272,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3292,7 +3292,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -3308,11 +3308,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -3332,7 +3332,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3352,7 +3352,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3368,11 +3368,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3392,7 +3392,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -3408,11 +3408,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -3428,7 +3428,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -3452,7 +3452,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3472,7 +3472,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -3488,11 +3488,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -3512,7 +3512,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3532,7 +3532,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3548,11 +3548,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3572,7 +3572,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -3588,11 +3588,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,
@@ -3608,7 +3608,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -3632,7 +3632,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3652,7 +3652,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -3668,11 +3668,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -3692,7 +3692,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3712,7 +3712,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3728,11 +3728,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3752,7 +3752,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -3768,11 +3768,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,
@@ -3788,11 +3788,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3812,7 +3812,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3832,7 +3832,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -3848,11 +3848,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -3872,7 +3872,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3892,7 +3892,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3908,11 +3908,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3932,7 +3932,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -3948,11 +3948,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,
@@ -3968,11 +3968,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -3992,7 +3992,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -4012,7 +4012,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -4028,11 +4028,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -4052,7 +4052,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4072,7 +4072,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4088,11 +4088,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4112,7 +4112,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -4128,11 +4128,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,
@@ -4148,11 +4148,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4172,7 +4172,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -4188,7 +4188,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -4208,11 +4208,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -4232,7 +4232,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4252,7 +4252,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4268,11 +4268,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4292,7 +4292,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -4308,11 +4308,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,
@@ -4328,11 +4328,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4352,7 +4352,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -4368,7 +4368,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -4388,7 +4388,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -4412,7 +4412,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4432,7 +4432,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4448,11 +4448,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4472,7 +4472,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -4488,11 +4488,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,
@@ -4508,11 +4508,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4532,7 +4532,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -4548,7 +4548,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -4568,7 +4568,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -4588,11 +4588,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -4612,7 +4612,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4628,11 +4628,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4652,7 +4652,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -4668,11 +4668,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,
@@ -4688,11 +4688,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4712,7 +4712,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -4728,7 +4728,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -4748,7 +4748,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -4768,11 +4768,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -4788,7 +4788,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -4808,11 +4808,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4832,7 +4832,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -4848,11 +4848,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,
@@ -4868,11 +4868,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -4892,7 +4892,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -4908,7 +4908,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -4928,7 +4928,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -4948,11 +4948,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -4968,7 +4968,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -4988,7 +4988,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -5012,7 +5012,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -5028,11 +5028,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,
@@ -5048,11 +5048,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -5072,7 +5072,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -5088,7 +5088,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -5108,7 +5108,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -5128,11 +5128,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -5148,7 +5148,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -5168,7 +5168,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -5188,11 +5188,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -5208,11 +5208,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,
@@ -5228,11 +5228,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -5252,7 +5252,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -5268,7 +5268,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -5288,7 +5288,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -5308,11 +5308,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -5328,7 +5328,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -5348,7 +5348,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -5368,11 +5368,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -5388,7 +5388,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -5408,11 +5408,11 @@
       "stadium": "El Sadar",
       "homeTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "awayTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -5432,7 +5432,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -5448,7 +5448,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -5468,7 +5468,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -5488,11 +5488,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -5508,7 +5508,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -5528,7 +5528,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -5548,11 +5548,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -5568,7 +5568,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -5588,11 +5588,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -5612,7 +5612,7 @@
       },
       "awayTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "score": {
         "home": 0,
@@ -5628,7 +5628,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -5648,7 +5648,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -5668,11 +5668,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -5688,7 +5688,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -5708,7 +5708,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -5728,11 +5728,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -5748,7 +5748,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -5768,11 +5768,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -5788,11 +5788,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -5808,7 +5808,7 @@
       "stadium": "Coliseum Alfonso Pérez",
       "homeTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Madrid",
@@ -5828,7 +5828,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -5848,11 +5848,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -5868,7 +5868,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -5888,7 +5888,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -5908,11 +5908,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -5928,7 +5928,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -5948,11 +5948,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -5968,11 +5968,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -5988,7 +5988,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -6008,7 +6008,7 @@
       "stadium": "Son Moix",
       "homeTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "awayTeam": {
         "name": "FC Barcelona",
@@ -6028,11 +6028,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -6048,7 +6048,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -6068,7 +6068,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -6088,11 +6088,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -6108,7 +6108,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -6128,11 +6128,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -6148,11 +6148,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -6168,7 +6168,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -6192,7 +6192,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -6208,11 +6208,11 @@
       "stadium": "Mendizorroza",
       "homeTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "awayTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "score": {
         "home": 0,
@@ -6228,7 +6228,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -6248,7 +6248,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -6268,11 +6268,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -6288,7 +6288,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -6308,11 +6308,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -6328,11 +6328,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -6348,7 +6348,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -6372,7 +6372,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -6392,7 +6392,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -6408,7 +6408,7 @@
       "stadium": "Balaídos",
       "homeTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "awayTeam": {
         "name": "Athletic Club",
@@ -6428,7 +6428,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -6448,11 +6448,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -6468,7 +6468,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -6488,11 +6488,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -6508,11 +6508,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -6528,7 +6528,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -6552,7 +6552,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -6572,7 +6572,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -6588,11 +6588,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -6608,7 +6608,7 @@
       "stadium": "Vallecas",
       "homeTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "awayTeam": {
         "name": "Real Betis",
@@ -6628,11 +6628,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -6648,7 +6648,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -6668,11 +6668,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -6688,11 +6688,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -6708,7 +6708,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -6732,7 +6732,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -6752,7 +6752,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -6768,11 +6768,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -6792,7 +6792,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -6808,11 +6808,11 @@
       "stadium": "Gran Canaria",
       "homeTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "awayTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "score": {
         "home": 0,
@@ -6828,7 +6828,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -6848,11 +6848,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -6868,11 +6868,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -6888,7 +6888,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -6912,7 +6912,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -6932,7 +6932,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -6948,11 +6948,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -6972,7 +6972,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -6992,7 +6992,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7008,7 +7008,7 @@
       "stadium": "Stage Front Stadium",
       "homeTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "awayTeam": {
         "name": "Real Sociedad",
@@ -7028,11 +7028,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -7048,11 +7048,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -7068,7 +7068,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -7092,7 +7092,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7112,7 +7112,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -7128,11 +7128,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -7152,7 +7152,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7172,7 +7172,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7188,11 +7188,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7208,11 +7208,11 @@
       "stadium": "José Zorrilla",
       "homeTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "awayTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "score": {
         "home": 0,
@@ -7228,11 +7228,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -7248,7 +7248,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -7272,7 +7272,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7292,7 +7292,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -7308,11 +7308,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -7332,7 +7332,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7352,7 +7352,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7368,11 +7368,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7392,7 +7392,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -7408,11 +7408,11 @@
       "stadium": "Butarque",
       "homeTeam": {
         "name": "Leganés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/5/52/CD_Legan%C3%A9s_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/250px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
       },
       "awayTeam": {
         "name": "Osasuna",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/02/Osasuna_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/03/OSASUNA.jpg"
       },
       "score": {
         "home": 0,
@@ -7428,7 +7428,7 @@
       "stadium": "Ipurua",
       "homeTeam": {
         "name": "Eibar",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/9e/SD_Eibar_logo.svg"
+        "logo": "https://www.cdcastellon.com/wp-content/uploads/2021/07/Eibar.png"
       },
       "awayTeam": {
         "name": "Sevilla",
@@ -7452,7 +7452,7 @@
       },
       "awayTeam": {
         "name": "Getafe",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/7f/Getafe_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/1148px-Getafe_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7472,7 +7472,7 @@
       },
       "awayTeam": {
         "name": "Mallorca",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/8f/Rcd_mallorca.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/800px-Rcd_mallorca.svg.png"
       },
       "score": {
         "home": 0,
@@ -7488,11 +7488,11 @@
       "stadium": "Montilivi",
       "homeTeam": {
         "name": "Girona",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/8/86/Girona_FC_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/a/a5/For_article_Girona_FC.svg.png"
       },
       "awayTeam": {
         "name": "Alavés",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2e/Deportivo_Alaves_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png"
       },
       "score": {
         "home": 0,
@@ -7512,7 +7512,7 @@
       },
       "awayTeam": {
         "name": "Celta",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/13/RC_Celta_de_Vigo_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/676px-RC_Celta_de_Vigo_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7532,7 +7532,7 @@
       },
       "awayTeam": {
         "name": "Rayo Vallecano",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/Rayo_Vallecano_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/c/cc/Rayo_Vallecano_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7548,11 +7548,11 @@
       "stadium": "Estadio de la Cerámica",
       "homeTeam": {
         "name": "Villarreal",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/7/70/Villarreal_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/ca/b/b1/Escut_Vila-real_CF.jpg"
       },
       "awayTeam": {
         "name": "Las Palmas",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1f/UD_Las_Palmas_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/sco/thumb/2/20/UD_Las_Palmas_logo.svg/696px-UD_Las_Palmas_logo.svg.png"
       },
       "score": {
         "home": 0,
@@ -7572,7 +7572,7 @@
       },
       "awayTeam": {
         "name": "Espanyol",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/Rcd_espanyol_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Escudo_RCD_Espanyol.png"
       },
       "score": {
         "home": 0,
@@ -7588,11 +7588,11 @@
       "stadium": "Mestalla",
       "homeTeam": {
         "name": "Valencia",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/c/ce/Valencia_CF_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/953px-Valenciacf.svg.png"
       },
       "awayTeam": {
         "name": "Valladolid",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/6/6c/Real_Valladolid_logo.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/an/6/62/Real_Valladolid_Club_de_F%C3%BAtbol_logo.png"
       },
       "score": {
         "home": 0,

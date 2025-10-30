@@ -1,0 +1,29 @@
+// 🌈 Gradiente corporativo
+@mixin gradient-primary {
+  background: linear-gradient(135deg, $color-primary, $color-secondary);
+}
+
+// 💫 Transición suave
+@mixin smooth-transition($duration: 0.3s) {
+  transition: all $duration ease-in-out;
+}
+
+// 🪶 Sombra con hover
+@mixin shadow-hover {
+  box-shadow: $shadow-base;
+  @include smooth-transition(0.2s);
+  &:hover {
+    box-shadow: $shadow-hover;
+    transform: translateY(-3px);
+  }
+}
+
+// 🎞️ Animación keyframes
+@mixin fade-in($duration: 0.8s) {
+  animation: fadeIn $duration ease-in-out both;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}

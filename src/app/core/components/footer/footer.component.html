@@ -1,0 +1,20 @@
+<footer class="footer">
+  <div class="footer-content">
+    <p class="brand">
+      © FLT · @ <a href="mailto:francisco.liebanas@nter.es">francisco.liebanas@nter.es</a> · {{ year }}
+    </p>
+
+    <div class="social-links">
+      @for (link of socialLinks; track link.name) {
+        <a [href]="link.url" target="_blank" rel="noopener noreferrer" class="social-link">
+          <span class="icon">{{ link.icon }}</span>
+          <span class="name">{{ link.name }}</span>
+        </a>
+      }
+    </div>
+  </div>
+
+  <div class="footer-theme">
+    @if (theme() === 'light') { <span>☀️ Modo Claro</span> } @else { <span>🌙 Modo Oscuro</span> }
+  </div>
+</footer>

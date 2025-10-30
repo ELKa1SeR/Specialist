@@ -1,0 +1,29 @@
+// 🎨 Paleta de colores base
+$color-primary: #0078ff;
+$color-secondary: #ff0078;
+$color-success: #28c76f;
+$color-danger: #ea5455;
+$color-warning: #ff9f43;
+$color-info: #00cfe8;
+
+// 🧱 Escala de grises
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+
+// ✍️ Tipografía
+$font-family-base: 'Poppins', 'Roboto', sans-serif;
+$font-size-base: 16px;
+
+// 📏 Spacing
+$spacer: 1rem;
+
+// 🕶️ Sombras
+$shadow-base: 0 2px 6px rgba(0, 0, 0, 0.15);
+$shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.25);

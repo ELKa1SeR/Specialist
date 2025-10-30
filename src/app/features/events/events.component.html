@@ -1,0 +1,18 @@
+<section class="events">
+  <h2>📅 Lista de eventos</h2>
+
+  <div *ngIf="loading" class="loading">Cargando eventos...</div>
+
+  <div *ngIf="!loading && events.length > 0" class="grid">
+    <div class="event-card" *ngFor="let event of events">
+      <h3>{{ event.sport | titlecase }}</h3>
+      <p>📍 {{ event.location }}</p>
+      <p>📅 {{ event.date }}</p>
+      <p>Estado: <strong>{{ event.status }}</strong></p>
+
+      <a [routerLink]="['/events', event.id]" class="btn">Ver detalle</a>
+    </div>
+  </div>
+
+  <p *ngIf="!loading && events.length === 0">No hay eventos disponibles.</p>
+</section>

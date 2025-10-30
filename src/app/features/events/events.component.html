@@ -1,18 +1,97 @@
-<section class="events">
-  <h2>📅 Lista de eventos</h2>
+<section class="events" aria-labelledby="eventsTitle">
+  <h2 id="eventsTitle">⚽ Jornada {{ currentPage() }}</h2>
 
-  <div *ngIf="loading" class="loading">Cargando eventos...</div>
+  <div class="cards" role="list">
+    @for (event of events(); track event.id) {
+      <article
+        role="listitem"
+        class="event-card"
+        [class.completed]="event.status === 'completed'"
+        [attr.aria-label]="event.homeTeam.name + ' vs ' + event.awayTeam.name"
+        tabindex="0"
+      >
+        <header class="event-card__header">
+          <h3 class="event-title">
+            <span class="sr-only">Partido:</span>
+            <strong class="home">{{ event.homeTeam.name }}</strong>
+            <span class="vs" aria-hidden="true">vs</span>
+            <strong class="away">{{ event.awayTeam.name }}</strong>
+          </h3>
 
-  <div *ngIf="!loading && events.length > 0" class="grid">
-    <div class="event-card" *ngFor="let event of events">
-      <h3>{{ event.sport | titlecase }}</h3>
-      <p>📍 {{ event.location }}</p>
-      <p>📅 {{ event.date }}</p>
-      <p>Estado: <strong>{{ event.status }}</strong></p>
+          <span
+            class="status-badge"
+            [attr.aria-label]="event.status === 'completed' ? 'Finalizado' : 'Próximo'"
+          >
+            {{ event.status === 'completed' ? 'Finalizado' : 'Próximo' }}
+          </span>
+        </header>
 
-      <a [routerLink]="['/events', event.id]" class="btn">Ver detalle</a>
-    </div>
+        <div class="logos" aria-label="Marcador y escudos">
+          <img
+            class="logo"
+            [src]="event.homeTeam.logo"
+            [alt]="'Escudo ' + event.homeTeam.name"
+            width="64"
+            height="64"
+            loading="lazy"
+            decoding="async"
+            
+          />
+
+          <span class="score" aria-live="polite" aria-atomic="true">
+            <span class="sr-only">Marcador:</span>
+            {{ event.score.home }} <span aria-hidden="true">-</span> {{ event.score.away }}
+          </span>
+
+          <img
+            class="logo"
+            [src]="event.awayTeam.logo"
+            [alt]="'Escudo ' + event.awayTeam.name"
+            width="64"
+            height="64"
+            loading="lazy"
+            decoding="async"
+           
+          />
+        </div>
+
+        <p class="place-time">
+          <span class="stadium" aria-label="Estadio">{{ event.stadium }}</span>
+          <span class="dot" aria-hidden="true">•</span>
+          <time [attr.datetime]="event.date + 'T' + event.time">
+            {{ event.date | date: 'EEEE, d MMMM y':'':'es-ES' }} · {{ event.time }}
+          </time>
+        </p>
+      </article>
+    }
   </div>
 
-  <p *ngIf="!loading && events.length === 0">No hay eventos disponibles.</p>
+  <nav class="pagination" role="navigation" aria-label="Paginación de jornadas">
+    <button
+      type="button"
+      class="page-btn"
+      (click)="prevPage()"
+      [disabled]="currentPage() === 1"
+      aria-label="Jornada anterior"
+    >
+      « Anterior
+    </button>
+
+    <span class="page-indicator" aria-live="polite">
+      Jornada {{ currentPage() }} / {{ totalPages() }}
+    </span>
+
+    <button
+      type="button"
+      class="page-btn"
+      (click)="nextPage()"
+      [disabled]="currentPage() === totalPages()"
+      aria-label="Siguiente jornada"
+    >
+      Siguiente »
+    </button>
+  </nav>
 </section>
+
+<!-- Texto solo para lectores de pantalla -->
+<span class="sr-only" aria-hidden="false"></span>
